@@ -1,24 +1,7 @@
-# 📚 Checklist de Aprendizado — Excel, Power BI e SQL
+# Checklist de Aprendizado — Excel, Power BI e SQL
 
-> Repositório de estudos documentado via commits no Git/GitHub.
-> Use commits no padrão **Conventional Commits** (`docs:`, `feat:`, `study:` etc.) para registrar o progresso.
 
----
 
-## 🗂️ Estrutura sugerida do repositório
-
-```
-meu-aprendizado/
-├── excel/
-│   ├── exercicios/
-│   └── notas.md
-├── power-bi/
-│   ├── dashboards/
-│   └── notas.md
-├── sql/
-│   ├── queries/
-│   └── notas.md
-└── README.md   ← progresso geral (marque os checkboxes abaixo)
 ```
 
 ---
